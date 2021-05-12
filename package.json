@@ -1,0 +1,15 @@
+{
+  "name": "teste2",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marcelo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "greenlock-express": "^4.0.3"
+  }
+}
